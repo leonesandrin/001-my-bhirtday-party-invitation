@@ -1,8 +1,12 @@
-
-
 body{
-color: aqua;
-background-color: #c7fff9;
-
-
-}
+    color: yellow;
+    background-color:#99f5ff;
+    background-image: url(pattern.jpg);
+    font-family: cursive
+ }
+ img{
+    width: 400px;
+ }
+ div{
+background-color: aqua;
+ }
